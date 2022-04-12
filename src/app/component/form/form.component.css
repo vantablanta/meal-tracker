@@ -1,6 +1,9 @@
 body {
     background-color: #FFEBEE
 }
+.bg{
+    background-color: #e3f2fd;
+}
 
 .card {
     width: 400px;
